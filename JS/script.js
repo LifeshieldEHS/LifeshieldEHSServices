@@ -15,3 +15,7 @@ function handleOnClick() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+// get year dynamically
+
+document.getElementById('year').innerHTML = new Date().getFullYear();
