@@ -217,6 +217,18 @@ img {
   color: #0077b5;
 }
 
+.fa-square-facebook{
+  color: #0866ff;
+}
+
+.fa-square-instagram{
+  background: linear-gradient(to top right, #ff9900 0%, #cc0099 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+}
+
 .fa-square-whatsapp{
   color: #4AC958;
 }
